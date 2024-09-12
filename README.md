@@ -1,8 +1,23 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Build your first blog using React and Sanity
 
-Currently, two official plugins are available:
+### Project Structure:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Create a new React blog
+
+Have Sanity manage our content
+
+Using React Routing, be able to navigate our app
+
+## Screenshots
+
+![Seetonic](https://github.com/seetonic/Sanity-Blog-Site/blob/31c702f199b890b6b62194bd3684074c4cb41234/public/Screenshots/1.PNG)
+
+![Seetonic](https://github.com/seetonic/Sanity-Blog-Site/blob/31c702f199b890b6b62194bd3684074c4cb41234/public/Screenshots/2.PNG)
+
+![Seetonic](https://github.com/seetonic/Sanity-Blog-Site/blob/31c702f199b890b6b62194bd3684074c4cb41234/public/Screenshots/3.PNG)
+
+## Support
+
+https://www.sanity.io/guides/build-your-first-blog-using-react
+
